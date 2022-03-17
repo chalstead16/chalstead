@@ -15,14 +15,15 @@ console.log("Hello, World! I'm Casey."); <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e8561?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-halstead/)
 
 ## Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-6e8561?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 <p>
-<img src="https://img.shields.io/badge/html5%20-445c36.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   <img src="https://img.shields.io/badge/css3%20-9cb38f.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ## Frameworks:
-![NodeJS](https://img.shields.io/badge/node.js-9cb38f?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-445c36?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-6e8561?style=for-the-badge&logo=chai&logoColor=white)
 
@@ -31,7 +32,7 @@ console.log("Hello, World! I'm Casey."); <br>
 ![Git](https://img.shields.io/badge/git-9cb38f.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-445c36?style=for-the-badge&logo=npm&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ATOM](https://img.shields.io/badge/Atom-9cb38f.svg?&style=for-the-badge&logo=atom&logoColor=white)
+![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![SLACK](https://img.shields.io/badge/Slack-6e8561.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ## Processes:
