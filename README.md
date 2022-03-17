@@ -1,13 +1,10 @@
 <h1 align='center'>
 console.log("Hello, World! I'm Casey."); <br>
-<img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=gjax78&theme=merko">
+<img height="250" width="350" src="https://github-readme-stats.vercel.app/api?username=chalstead16&theme=merko">
 </h1>
 
 ## A little bit about me:
 - I am a current Frontend Software Engineering Student at [Turing School of Software and Design](https://turing.edu/)
-- I am one cat away from becoming a crazy cat lady
-- I am that weirdo in the room that enjoys CSS
-- My middle name is passion and my best friend is curiosity
 
 
 ## How to reach me:
@@ -19,7 +16,8 @@ console.log("Hello, World! I'm Casey."); <br>
 
 <p>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  <img src="https://img.shields.io/badge/css3%20-9cb38f.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+
+![CSS](https://img.shields.io/badge/css3%20-9cb38f.svg?&style=for-the-badge&logo=css3&logoColor=white)
 </p>
 
 ## Frameworks:
