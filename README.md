@@ -8,7 +8,7 @@
  <a href="mailto:catherineclosee@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
 <p align=center>
-<img height="350" width="450" src="https://github-readme-stats.vercel.app/api?username=chalstead16">
+<img height="150" width="450" src="https://github-readme-stats.vercel.app/api?username=chalstead16">
 </p>
 
 
