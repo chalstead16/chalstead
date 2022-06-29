@@ -1,21 +1,17 @@
 <p align=center>
     <img width="300" height="300" alt="Screen Shot 2022-03-17 at 4 11 03 PM" src="https://user-images.githubusercontent.com/91504411/158895830-4629d8eb-42e7-4106-9b07-d45a74cf9df0.png">
 </p>
-<h1 align='center'>console.log("Hello, World - I'm Casey!");</h1>
-<h3 align=center>let's connect</h3>
+<h1 align='center'>console.log('Hello, World - I'm Casey!');</h1>
+<h3 align=center>Let's Connect</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/casey-halstead/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
  <a href="mailto:catherineclosee@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
-<p align=center>
-<img height="150" width="450" src="https://github-readme-stats.vercel.app/api?username=chalstead16">
-</p>
-
 
 ## Fun Facts:
 - I'm often told I could make friends with a tree 🌴
 - My heart melts watching pet videos or pets irl 🐶
-- I am a Frontend Software Engineering Student at [Turing School of Software and Design](https://turing.edu/) 🤓
+- I'm a certified Frontend Software Engineer from [Turing School of Software and Design](https://turing.edu/) 👩🏼‍💻
 
 
 ## Tools & Technologies:
